@@ -29,8 +29,8 @@
   
   <div>
     <h2>Contact Me 📧</h2>
-      <a href="https://linkedin.com/in/luis-pellizzon" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilsharmaa" height="30" width="40" style="max-width: 100%;"></a>
-      <a href="https://instagram.com/lupellizzon" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshilsharmaa" height="30" width="40" style="max-width: 100%;"></a>
+      <a href="https://linkedin.com/in/luis-pellizzon" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilsharmaa" height="30" width="40" style="max-width: 100%;"></a>
+      <a href="https://instagram.com/lupellizzon" rel="nofollow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshilsharmaa" height="30" width="40" style="max-width: 100%;"></a>
   </div>
   <br>
   <br>
