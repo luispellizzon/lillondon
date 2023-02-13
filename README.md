@@ -22,9 +22,9 @@
   <div>
 <h2>Github Stats ✨</h2>
     
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhpellizzon&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Lhpellizzon GitHub stats](https://github-readme-stats.vercel.app/api?username=lhpellizzon&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lillondon&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![lillondon GitHub stats](https://github-readme-stats.vercel.app/api?username=lillondon&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lhpellizzon&theme=blueberry_duo&hide_border=true&border_radius=7.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lillondon&theme=blueberry_duo&hide_border=true&border_radius=7.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     
   </div>
   
